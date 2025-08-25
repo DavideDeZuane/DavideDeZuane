@@ -1,22 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DavideDeZuane/DavideDeZuane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐉 Whoami
 
-Here are some ideas to get you started:
+🎓 **Background**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Bachelor's degree in **Computer Engineering** at *Università Politecnica delle Marche* (2022)
+  - Master's degree in **Computer Engineering** at *Università Politecnica delle Marche* (2024)
+  - PhD in **Cybersecurity** at *IMT Lucca* 
 
+🔬 **Research & Interests**  
 
-### Technologies  
+  - 
 
 ## 🛠️ Tech Stack
 
