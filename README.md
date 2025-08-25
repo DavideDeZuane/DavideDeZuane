@@ -10,6 +10,8 @@
 
 🔬 **Research & Interests**  
 
+  - **Cyrptography**: 
+  - **Networking & Cybersecurity**: protocols, network security  
   - 
 
 ## 🛠️ Tech Stack
