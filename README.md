@@ -10,7 +10,7 @@
 
 🔬 **Research & Interests**  
 
-  - **Cyrptography**: 
+  - **Cyrptography**: KEMs 
   - **Networking & Cybersecurity**: protocols, network security  
   - 
 
