@@ -13,6 +13,8 @@
   - **Cyrptography**: KEMs 
   - **Networking & Cybersecurity**: protocols, network security  
 
+<br>
+
 ## 🛠️ Tech Stack
 
 | Category | Technologies & Tools |
