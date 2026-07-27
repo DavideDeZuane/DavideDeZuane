@@ -19,6 +19,8 @@
 
 ## 🛠️ Tech Stack
 
+Brief list of software that i use every day.
+
 | Category | Technologies & Tools |
 |----------------------------------|---------------------------------------------------------------------------------------|
 | 📡 Networking | ![Ubiquiti Badge](https://img.shields.io/badge/ubiquiti-%230559C9?style=for-the-badge&logo=ubiquiti&labelColor=black) ![Huawei Badge](https://img.shields.io/badge/vrp-%23CE0E2D?style=for-the-badge&logo=huawei&labelColor=black) |
